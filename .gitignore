@@ -1,0 +1,73 @@
+# Emacs backup and temporary files
+*~
+*#
+.#*
+\#*\#
+.\#*
+
+# Emacs session files
+.emacs.desktop
+.emacs.desktop.lock
+.emacs.session
+*_archive
+*_flymake.*
+
+# Emacs auto-save files
+\#*\#
+.\#*
+
+# Emacs bookmark files
+.bookmarks.el
+
+# C/C++ compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Log files
+*.log
+
+# Core dumps
+core
+core.*
+
+.DS_Store
+.idea
+*.log
+tmp/
+
+*.tern-port
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tsbuildinfo
+.npm
+.eslintcache
