@@ -71,3 +71,4 @@ yarn-error.log*
 *.tsbuildinfo
 .npm
 .eslintcache
+*.pdf
